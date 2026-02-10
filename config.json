@@ -1,0 +1,15 @@
+{
+  "status": "ONLINE",
+  "version": "1.5",
+  "security_token": "GHOST_2026_SECURE_ACCESS",
+  "data": {
+    "offset_GWorld": "0x98A120", 
+    "offset_LocalPlayer": "0xB0",
+    "offset_EntityList": "0x130",
+    "offset_ViewMatrix": "0x320",
+    "offset_PlayerName": "0x3D0",
+    "offset_PlayerTeam": "0x36C",
+    "offset_PlayerTransform": "0x50",
+    "rva_CurrentMatch": "0x3264B10"
+  }
+}
