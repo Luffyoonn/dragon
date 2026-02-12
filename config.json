@@ -3,7 +3,7 @@
   "version": "1.5",
   "security_token": "GHOST_2026_SECURE_ACCESS",
   "data": {
-    "offset_GWorld": "0x98A120", 
+    "offset_GWorld": "0x0", 
     "offset_LocalPlayer": "0xB0",
     "offset_EntityList": "0x130",
     "offset_ViewMatrix": "0x320",
